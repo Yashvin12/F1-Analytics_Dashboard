@@ -409,10 +409,6 @@ This is a portfolio project. For improvements or modifications:
 - **Streamlit Docs**: https://docs.streamlit.io/
 - **Plotly Docs**: https://plotly.com/python/
 
-## 📄 License
-
-This project is available under the MIT License. See LICENSE file for details.
-
 ---
 
 ## 🎓 Key Takeaways
@@ -425,8 +421,6 @@ This project demonstrates:
 ✅ **User Experience**: Intuitive navigation, responsive design, fast performance
 ✅ **Analytics Depth**: Statistical analysis, trend detection, insights generation
 ✅ **Production Readiness**: Error handling, documentation, scalability considerations
-
-Perfect for showcasing on GitHub and LinkedIn as a portfolio project! 🚀
 
 ---
 
