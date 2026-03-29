@@ -413,17 +413,6 @@ This is a portfolio project. For improvements or modifications:
 
 This project is available under the MIT License. See LICENSE file for details.
 
-## 👤 Author
-
-**Senior Python Engineer & Data Visualization Specialist**
-
-A production-grade analytics platform demonstrating:
-- Advanced data engineering
-- Professional visualization design
-- Clean code architecture
-- Real-world data insights
-- Portfolio-ready presentation
-
 ---
 
 ## 🎓 Key Takeaways
@@ -441,6 +430,6 @@ Perfect for showcasing on GitHub and LinkedIn as a portfolio project! 🚀
 
 ---
 
-**Last Updated**: 2024
+**Last Updated**: 2026
 **Version**: 1.0.0
 **Status**: Production Ready ✅
